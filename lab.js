@@ -32,7 +32,7 @@ var brittanisBirthYear = 1986;
 
 ////////// PROBLEM 4 //////////
 
-let temperature = 55;
+let temperature = 59;
 let rain = true;
 
 /*
