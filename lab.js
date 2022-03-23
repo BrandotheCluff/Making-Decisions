@@ -5,7 +5,7 @@
 //   console.log("Debatable")
 
 let amysAge = 29
-let brittanysAge = 29
+let brittanysAge = 34
 let amysBirthYear = 1991
 let brittanysBirthYear = 1986
 
@@ -16,3 +16,11 @@ if(brittanysAge > amysAge){
 }else{
   console.log("They are the same age.")
 }
+
+if(amysBirthYear === brittanysBirthYear){
+  console.log("Amy and Brittany were born in the same year")
+}else{
+  console.log("They were not born in the same year")
+}
+
+
